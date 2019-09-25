@@ -1,0 +1,6 @@
+{
+    "parent": "assets/minecraft/mcpatcher/models/tableau",
+    "textures": {
+        "layer0": "./contreplongee"
+    }
+}
