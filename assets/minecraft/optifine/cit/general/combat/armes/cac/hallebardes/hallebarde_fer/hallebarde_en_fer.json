@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Tanou with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "./hallebarde_en_fer"
+		"texture": "optifine/cit/general/combat/armes/cac/hallebardes/hallebarde_fer/hallebarde_en_fer"
 	},
 	"elements": [
 		{
@@ -553,3 +553,4 @@
 		}
 	}
 }
+

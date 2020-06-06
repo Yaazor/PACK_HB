@@ -1,7 +1,7 @@
 {
 	"parent": "assets/minecraft/optifine/models/sphere",
 	"textures": {
-		"texture": "./braise"
+		"texture": "optifine/cit/guildes/arbitres/braise/braise"
 	},
 	"display": {
 		"thirdperson_righthand": {

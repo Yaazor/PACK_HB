@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "./vache"
+        "layer0": "optifine/cit/general/decoration/peaux/vache/vache"
     },
     "display": {
         "ground": {
@@ -36,4 +36,5 @@
         }
     }
 }
+
 

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "./stick"
+		"texture": "optifine/cit/guildes/theoriciens/stick_mod/stick"
 	},
 	"elements": [
 		{

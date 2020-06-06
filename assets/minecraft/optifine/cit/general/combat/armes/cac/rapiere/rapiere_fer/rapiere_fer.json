@@ -1,8 +1,8 @@
 {
 	"credit": "Designed by Letutout for Herobrine.fr",
 	"textures": {
-		"0": "./rapiere_fer",
-		"particle": "./rapiere_fer"
+		"0": "optifine/cit/general/combat/armes/cac/rapiere/rapiere_fer/rapiere_fer",
+		"particle": "optifine/cit/general/combat/armes/cac/rapiere/rapiere_fer/rapiere_fer"
 	},
 	"elements": [
 		{

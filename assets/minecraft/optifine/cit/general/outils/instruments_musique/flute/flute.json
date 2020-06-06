@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "./flute"
+        "layer0": "optifine/cit/general/outils/instruments_musique/flute/flute"
     },
     "display": {
         "thirdperson_righthand": {
@@ -41,3 +41,4 @@
         }
     }
 }
+

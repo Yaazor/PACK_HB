@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./bouclier_long"
+		"0": "optifine/cit/general/combat/boucliers/bouclier_long/bouclier_long"
 	},
 	"elements": [
 		{

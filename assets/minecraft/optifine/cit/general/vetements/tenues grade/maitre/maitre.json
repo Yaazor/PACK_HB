@@ -2,7 +2,7 @@
 	
 	"textures": {
 		"maitre": "maitre",
-		"maitre_atlas": "./maitre_atlas"
+		"maitre_atlas": "optifine/cit/general/vetements/tenues grade/maitre/maitre_atlas"
 	},
 	"elements": [
 		{

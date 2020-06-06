@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "./ours"
+        "layer0": "optifine/cit/general/decoration/peaux/ours_blanc/ours"
     },
     "display": {
         "ground": {
@@ -36,4 +36,5 @@
         }
     }
 }
+
 

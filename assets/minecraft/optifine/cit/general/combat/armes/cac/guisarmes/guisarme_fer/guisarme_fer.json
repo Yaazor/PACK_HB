@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Inposa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "./guisarme_fer"
+		"texture": "optifine/cit/general/combat/armes/cac/guisarmes/guisarme_fer/guisarme_fer"
 	},
 	"elements": [
 		{
@@ -488,3 +488,4 @@
 		}
 	}
 }
+

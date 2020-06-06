@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Tanou with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "./hallebarde_adamantine"
+		"texture": "optifine/cit/general/combat/armes/cac/hallebardes/hallebarde_diamant/hallebarde_adamantine"
 	},
 	"elements": [
 		{
@@ -553,3 +553,4 @@
 		}
 	}
 }
+

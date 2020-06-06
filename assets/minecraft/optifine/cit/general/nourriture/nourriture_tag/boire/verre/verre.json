@@ -1,7 +1,8 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "./verre_liquide",
-        "layer1": "./verre_contour"
+        "layer0": "optifine/cit/general/nourriture/nourriture_tag/boire/verre/verre_liquide",
+        "layer1": "optifine/cit/general/nourriture/nourriture_tag/boire/verre/verre_contour"
     }
 }
+

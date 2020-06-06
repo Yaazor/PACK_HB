@@ -1,7 +1,8 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "./potion_harde_overlay",
-        "layer1": "./potion_harde_drinkable"
+        "layer0": "optifine/cit/guildes/harde/potions/potion_harde_overlay",
+        "layer1": "optifine/cit/guildes/harde/potions/potion_harde_drinkable"
     }
 }
+

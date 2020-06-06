@@ -1,16 +1,16 @@
 {
 	"credit": "Designed by Letutout for Herobrine.fr",
 	"textures": {
-		"0": "./spruce_planks",
-		"1": "./stripped_dark_oak_log",
-		"2": "./bone_block_side",
-		"3": "./fond_noir",
-		"5": "./base_bois",
-		"6": "./bois_variante",
-		"7": "./bois_variante2",
-		"8": "./texture_bois",
-		"9": "./bois_variante3",
-		"particle": "./spruce_planks"
+		"0": "optifine/cit/guildes/garde/trophes/herbivores/spruce_planks",
+		"1": "optifine/cit/guildes/garde/trophes/herbivores/stripped_dark_oak_log",
+		"2": "optifine/cit/guildes/garde/trophes/herbivores/bone_block_side",
+		"3": "optifine/cit/guildes/garde/trophes/herbivores/fond_noir",
+		"5": "optifine/cit/guildes/garde/trophes/herbivores/base_bois",
+		"6": "optifine/cit/guildes/garde/trophes/herbivores/bois_variante",
+		"7": "optifine/cit/guildes/garde/trophes/herbivores/bois_variante2",
+		"8": "optifine/cit/guildes/garde/trophes/herbivores/texture_bois",
+		"9": "optifine/cit/guildes/garde/trophes/herbivores/bois_variante3",
+		"particle": "optifine/cit/guildes/garde/trophes/herbivores/spruce_planks"
 	},
 	"elements": [
 		{

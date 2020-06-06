@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-        "layer0": "./ecu"
+        "layer0": "optifine/cit/general/combat/boucliers/ecus/ecu_bois/ecu"
     },
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Inposa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"harpon": "./harpon"
+		"harpon": "optifine/cit/guildes/compagnie/outils/harpon/harpon"
 	},
 	"elements": [
 		{

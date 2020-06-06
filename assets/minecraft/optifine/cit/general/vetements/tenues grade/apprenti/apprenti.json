@@ -2,7 +2,7 @@
 	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"apprenti": "apprenti",
-		"apprenti_atlas": "./apprenti_atlas"
+		"apprenti_atlas": "optifine/cit/general/vetements/tenues grade/apprenti/apprenti_atlas"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
     "parent": "./tableau",
     "textures": {
-        "layer0": "./enloyan"
+        "layer0": "optifine/cit/general/tableaux/enloyan"
     }
 }

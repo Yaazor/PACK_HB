@@ -2,7 +2,7 @@
 	
 	"textures": {
 		"membre": "membre",
-		"texture": "./membre_atlas"
+		"texture": "optifine/cit/general/vetements/tenues grade/membre/membre_atlas"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"credit": "Designed by Letutout for Herobrine.fr",
 	"textures": {
-		"0": "./masse_deux_mains_adamantin",
-		"particle": "./masse_deux_mains_adamantin"
+		"0": "optifine/cit/general/combat/armes/cac/marteaux/masse_deux_mains_adamantin/masse_deux_mains_adamantin",
+		"particle": "optifine/cit/general/combat/armes/cac/marteaux/masse_deux_mains_adamantin/masse_deux_mains_adamantin"
 	},
 	"elements": [
 		{

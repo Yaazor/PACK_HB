@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "./bouclier_long_parade"
+    "layer0": "optifine/cit/general/combat/boucliers/bouclier_long/bouclier_long_parade"
   },
   "display": {
     "thirdperson_righthand": {
@@ -31,3 +31,4 @@
     }
   }
 }
+

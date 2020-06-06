@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Inposa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"pipe": "./pipe"
+		"pipe": "optifine/cit/general/outils/pipe/pipe"
 	},
 	"elements": [
 		{

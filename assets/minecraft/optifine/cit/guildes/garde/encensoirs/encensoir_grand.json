@@ -2,10 +2,10 @@
 	"credit": "Designed by Letutout for Herobrine.fr",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "./coque_encensoir",
-		"1": "./ecaille_encensoir",
-		"2": "./bone_block_side",
-		"particle": "./coque_encensoir"
+		"0": "optifine/cit/guildes/garde/encensoirs/coque_encensoir",
+		"1": "optifine/cit/guildes/garde/encensoirs/ecaille_encensoir",
+		"2": "optifine/cit/guildes/garde/encensoirs/bone_block_side",
+		"particle": "optifine/cit/guildes/garde/encensoirs/coque_encensoir"
 	},
 	"elements": [
 		{
@@ -4083,3 +4083,4 @@
 		}
 	]
 }
+

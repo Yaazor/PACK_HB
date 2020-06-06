@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
 	"textures": {
-        "layer0": "./bouclier_rond"
+        "layer0": "optifine/cit/general/combat/boucliers/boucliers_rond/fer/bouclier_rond"
     },
     "display": {
         "thirdperson_righthand": {
@@ -41,3 +41,4 @@
         }
     }
 }
+

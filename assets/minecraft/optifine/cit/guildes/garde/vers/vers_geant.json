@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./vers_geant"
+		"0": "optifine/cit/guildes/garde/vers/vers_geant"
 	},
 	"elements": [
 		{
@@ -1073,3 +1073,4 @@
 		}
 	]
 }
+

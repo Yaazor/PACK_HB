@@ -1,6 +1,6 @@
 {
     "parent": "./tableau",
     "textures": {
-        "layer0": "./yeux"
+        "layer0": "optifine/cit/general/tableaux/yeux"
     }
 }

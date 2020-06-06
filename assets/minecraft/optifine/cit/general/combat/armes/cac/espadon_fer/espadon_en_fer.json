@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Tanou with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "./espadon_en_fer"
+		"texture": "optifine/cit/general/combat/armes/cac/espadon_fer/espadon_en_fer"
 	},
 	"elements": [
 		{
@@ -449,3 +449,4 @@
 		}
 	}
 }
+

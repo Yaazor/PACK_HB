@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "./canne_or"
+        "layer0": "optifine/cit/general/outils/cannes/or/canne_or"
     },
     "display": {
         "thirdperson_righthand": {
@@ -16,3 +16,4 @@
         }
     }
 }
+

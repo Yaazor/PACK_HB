@@ -1,7 +1,8 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "./flasque_liquide",
-        "layer1": "./flasque_contour"
+        "layer0": "optifine/cit/general/nourriture/nourriture_rename/boire/flasque/flasque_liquide",
+        "layer1": "optifine/cit/general/nourriture/nourriture_rename/boire/flasque/flasque_contour"
     }
 }
+

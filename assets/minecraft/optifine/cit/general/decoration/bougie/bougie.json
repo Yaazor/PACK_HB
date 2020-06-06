@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Miranthir with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "./bougie_flamme",
-		"texture": "./bougie"
+		"particle": "optifine/cit/general/decoration/bougie/bougie_flamme",
+		"texture": "optifine/cit/general/decoration/bougie/bougie"
 	},
 	"elements": [ 	 
 		{

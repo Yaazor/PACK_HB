@@ -1,6 +1,6 @@
 {
     "parent": "./tableau",
     "textures": {
-        "layer0": "./andalaue"
+        "layer0": "optifine/cit/general/tableaux/andalaue"
     }
 }

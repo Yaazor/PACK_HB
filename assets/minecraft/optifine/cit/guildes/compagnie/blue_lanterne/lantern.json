@@ -2,7 +2,7 @@
 	"__comment": "Designed by Inposa with Cubik Studio - https://cubik.studio",
 	"parent": "block/lantern",
 	"textures": {
-		"all": "./blue_lantern"
+		"all": "optifine/cit/guildes/compagnie/blue_lanterne/blue_lantern"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -1,6 +1,6 @@
 {
     "parent": "./tableau",
     "textures": {
-        "layer0": "./orme"
+        "layer0": "optifine/cit/general/tableaux/orme"
     }
 }

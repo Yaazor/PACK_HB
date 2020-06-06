@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Tanou with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "./espadon_adamantin"
+		"texture": "optifine/cit/general/combat/armes/cac/espadon_diamant/espadon_adamantin"
 	},
 	"elements": [
 		{
@@ -449,3 +449,4 @@
 		}
 	}
 }
+

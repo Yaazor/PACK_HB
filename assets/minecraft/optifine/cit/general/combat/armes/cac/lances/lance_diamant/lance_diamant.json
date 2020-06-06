@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Inposa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"lance_diamant": "./lance_diamant"
+		"lance_diamant": "optifine/cit/general/combat/armes/cac/lances/lance_diamant/lance_diamant"
 	},
 	"elements": [
 		{
@@ -447,3 +447,4 @@
 		}
 	}
 }
+

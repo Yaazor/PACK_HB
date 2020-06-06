@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "./canne"
+        "layer0": "optifine/cit/general/outils/cannes/bois/canne"
     },
     "display": {
         "thirdperson_righthand": {
@@ -16,3 +16,4 @@
         }
     }
 }
+

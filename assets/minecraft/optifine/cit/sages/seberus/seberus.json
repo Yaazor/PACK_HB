@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Miranthir with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "./seberus"
+		"texture": "optifine/cit/sages/seberus/seberus"
 	},
 	"elements": [
 		{

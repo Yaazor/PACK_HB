@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Miranthir with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "./bone_scythe"
+		"texture": "optifine/cit/guildes/harde/outils/bone_scythe"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Inposa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"lance_fer": "./lance_fer"
+		"lance_fer": "optifine/cit/general/combat/armes/cac/lances/lance_fer/lance_fer"
 	},
 	"elements": [
 		{
@@ -447,3 +447,4 @@
 		}
 	}
 }
+

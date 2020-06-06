@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Tanou with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "./baton_de_combat"
+		"texture": "optifine/cit/general/combat/armes/cac/baton_combat/baton_de_combat"
 	},
 	"elements": [
 		{
@@ -330,3 +330,4 @@
 		}
 	}
 }
+

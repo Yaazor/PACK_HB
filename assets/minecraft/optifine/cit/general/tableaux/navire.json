@@ -1,6 +1,6 @@
 {
     "parent": "./tableau",
     "textures": {
-        "layer0": "./navire"
+        "layer0": "optifine/cit/general/tableaux/navire"
     }
 }

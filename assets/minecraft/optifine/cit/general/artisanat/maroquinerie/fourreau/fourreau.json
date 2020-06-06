@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "./fourreau"
+        "layer0": "optifine/cit/general/artisanat/maroquinerie/fourreau/fourreau"
     },
     "display": {
         "thirdperson_righthand": {
@@ -46,3 +46,4 @@
         }
     }
 }
+

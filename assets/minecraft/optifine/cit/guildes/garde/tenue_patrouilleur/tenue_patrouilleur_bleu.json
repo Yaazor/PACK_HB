@@ -1,8 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "./tenue_patrouilleur_bleu",
-		"particle": "./tenue_patrouilleur_bleu"
+		"0": "optifine/cit/guildes/garde/tenue_patrouilleur/tenue_patrouilleur_bleu",
+		"particle": "optifine/cit/guildes/garde/tenue_patrouilleur/tenue_patrouilleur_bleu"
 	},
 	"elements": [
 		{
@@ -215,3 +215,4 @@
 		}
 	}
 }
+
